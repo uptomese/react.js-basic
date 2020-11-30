@@ -1,10 +1,15 @@
 npm install
 
-#strat node server
+# strat node server
 cd backend
 nodemon server
 
 ---
-#strat web
+# strat web
 cd..
 npm strat
+
+---
+-crud
+-db mongodb atlat
+-datatable
