@@ -6,7 +6,7 @@ npm install
 
 ---
 # strat web
-- cd..
+- cd ..
 - npm strat
 
 ---
